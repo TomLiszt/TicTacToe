@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\spect\source\repos\TicTacToe\main.cpp(74,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\spect\source\repos\TicTacToe\main.cpp(74,20): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\spect\source\repos\TicTacToe\main.cpp(78,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\spect\source\repos\TicTacToe\main.cpp(78,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\spect\source\repos\TicTacToe\main.cpp(78,23): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\spect\source\repos\TicTacToe\main.cpp(78,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\spect\source\repos\TicTacToe\main.cpp(79,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\spect\source\repos\TicTacToe\main.cpp(79,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\spect\source\repos\TicTacToe\main.cpp(79,29): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\spect\source\repos\TicTacToe\main.cpp(79,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  TicTacToe.vcxproj -> C:\Users\spect\source\repos\TicTacToe\x64\Debug\TicTacToe.exe
